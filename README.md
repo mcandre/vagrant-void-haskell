@@ -2,7 +2,8 @@
 
 # VAGRANT CLOUD
 
-https://app.vagrantup.com/mcandre/boxes/vagrant-void-haskell
+* https://app.vagrantup.com/mcandre/boxes/vagrant-void-haskell-amd64
+* https://app.vagrantup.com/mcandre/boxes/vagrant-void-haskell-i386
 
 # EXAMPLE
 
